@@ -243,6 +243,6 @@ df5
 ![image](https://user-images.githubusercontent.com/121166004/232686070-14be4e97-685a-4111-b49c-6aa78a104e8d.png)
 # Data Scaling using RobustScaler:
 ![image](https://user-images.githubusercontent.com/121166004/232686174-6578bf49-1590-48c7-aeb9-c061bbbe50ab.png)
-RESULT:
+# RESULT:
 Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
 
